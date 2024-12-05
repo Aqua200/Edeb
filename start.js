@@ -311,7 +311,7 @@ console.log(chalk.bold.greenBright(`🚩 GokuBlack conectado correctamente.`))
 
 await connectSubBots();
 } catch (error) {
-console.error(chalk.bold.cyanBright(`🍭 Error al iniciar Goku-Black-Bot-MD-Lite: `, error))
+console.error(chalk.bold.cyanBright(`🍭 Error al iniciar Edeb: `, error))
 }
 })();*/
 
