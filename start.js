@@ -278,7 +278,7 @@ process.on('uncaughtException', console.error)
 /* Echo por: https://github.com/elrebelde21 */
 
 /*async function connectSubBots() {
-const subBotDirectory = './BlackJadiBot';
+const subBotDirectory = './EdebJadiBot';
 if (!existsSync(subBotDirectory)) {
 console.log('🚩 Edeb no tiene Sub-Bots vinculados.');
 return;
