@@ -1,13 +1,13 @@
 {
-"name": "Goku - Black - Bot - MD - Lite",
-"website": "https://github.com/Ivanmods15",
+"name": "Edeb",
+"website": "https://github.com/Aqua200",
 "description": "El Bot Mas Good De WhatsApp",
-"repository": "https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite",
+"repository": "https://github.com/Aqua200/Edeb",
 "logo": "https://telegra.ph/file/49baa73f0c2f42ad7e85b.png",
-"success_url": "https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite",
+"success_url": "https://github.com/Aqua200/Edeb",
 "keywords": [
 "nodejs", "heroku", "bot", "spanish", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
-"termux", "superbot", "multi-device", "md", "official", "javascript", "gokublack-bot", "bot-gokublack", "ai"],
+"termux", "superbot", "multi-device", "md", "official", "javascript", "Edeb", "Edeb", "ai"],
 "image": "heroku/nodejs",
 "buildpacks": [
 { "url": "heroku/nodejs" },
