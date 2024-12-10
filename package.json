@@ -1,5 +1,5 @@
 {
-"name":"HuTao-Proyect",
+"name":"Edeb",
 "version":"V2",
 "description": "la directora de la funeraria el caminó",
 "main": "index.js",
@@ -19,13 +19,13 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/CheirZ/HuTao-Proyect",
+"homepage": "https://github.com/Aqua200/Edeb",
 "author": {
-"name": "Ximiguelon" },
+"name": "Aqua200" },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/CheirZ/HuTao-Proyect.git" },
-"bugs": { "url": "https://github.com/CheirZ/HuTao-Proyect/issues" },
+"url": "git+https://github.com/Aqua200/Edeb.git" },
+"bugs": { "url": "https://github.com/Aqua200/Edeb/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "github:OfcKing/Bailey",
