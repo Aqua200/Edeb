@@ -1,4 +1,4 @@
-> 💝 Versión Actual: V2
+
 
 ## 🌹 **`Edeb`**
 ## ❤️ **`haz tu sueño realidad **
@@ -55,7 +55,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Aqua200/Edeb/master/update.sh | bash
 ```
-Para que no pierda su progreso en HuTao, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+Para que no pierda su progreso en Edeb estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
 > Warning Estos comandos solo funcionan para TERMUX
 
