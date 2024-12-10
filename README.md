@@ -91,6 +91,8 @@ Para que no pierda su progreso en Edeb estos comandos realizarán un respaldo de
 
 **Nadie Quiso Colaborar**
 
+### **`✨ Gracias a ________ Por Los Códigos ✨`**
+
 ### **`❤️ PROPIETARIO Y EDITOR`**
 <a
 href="https://github.com/Aqua200"><img src="https://github.com/Aqua200.png" width="130" height="130" alt="Aqua200"/></a>
