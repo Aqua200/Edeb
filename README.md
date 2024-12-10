@@ -3,15 +3,9 @@
 ## 🌹 **`Edeb`**
 ## ❤️ **`haz tu sueño realidad **
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;disfruta+de+Edeb🦋+❤️Aqua200🌹)](https://git.io/typing-svg)
-![Edeb](https://qu.ax/OOECB.png)
+![Edeb](https://qu.ax/yZRGs.jpg)
 
 ---
-
-### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba La Bot Aqui" width="42" height="42"> Prueba La Bot Aqui
-
-> Si Deseas Probar El Bot Antes De Instalarlo, Click Abajo. 🍟
-
-[![Click Aquí](https://img.shields.io/badge/Grupo-HuTao-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KxHaM2J0NWPDR4RU24OmFw)
 
 🍟 **`INSTALACION MANUAL POR TERMUX`**
 
@@ -26,7 +20,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/CheirZ/HuTao-Proyect.git && cd HuTao-Proyect
+git clone https://github.com/Aqua200/Edeb.git && cd Edeb
 ```
 ```bash
 yarn install && npm update && npm i
@@ -116,14 +110,15 @@ Para que no pierda su progreso en HuTao, estos comandos realizarán un respaldo 
 
 
 ### **`🦋 COLABORADORES`**
-<a href="https://github.com/CheirZ/Hutao-Proyect/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=CheirZ/Hutao-Proyect" /> 
-</a>
+
+**Nadie Quiso Colaborar**
 
 ### **`❤️‍🔥 PROPIETARIO`**
 <a
-href="https://github.com/CheirZ"><img src="https://github.com/CheirZ.png" width="130" height="130" alt="Miguelon"/></a>
+href="https://github.com/Aqua200"><img src="https://github.com/Aqua200.png" width="130" height="130" alt="Aqua200"/></a>
 
-> Copyright (c) 2024 **[Xi_Miguelon](https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820)**.
+> Copyright (c) 2024 **[Aqua200
+> ()**.
+
 
 **`¡GRACIAS POR PREFERIRNOS!` 🔥**
