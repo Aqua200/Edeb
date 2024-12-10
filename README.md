@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;disfruta+de+Edeb🦋+❤️Aqua200🌹)](https://git.io/typing-svg)
 ![Edeb](https://qu.ax/yZRGs.jpg)
 
+Nota: Estoy trabajando en la bot para que la única Funcion sea WhatsApp 
+
 ---
 
 🍟 **`INSTALACION MANUAL POR TERMUX`**
